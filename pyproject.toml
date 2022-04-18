@@ -12,7 +12,6 @@ uvicorn = {extras = ["standard"], version = "^0.17.6"}
 SQLAlchemy = "^1.4.35"
 psycopg2 = "^2.9.3"
 pydantic = "^1.9.0"
-fastapi-sessions = "^0.3.2"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
